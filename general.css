@@ -6,7 +6,13 @@ html {
   	background-size: cover;
 }
 
+body {
+	font-family: 'Poiret One', cursive;
+}
+
 #iconContainer {
+	margin-top: 150px;
+	margin-bottom: 150px;
 	margin-left: auto;
   	margin-right: auto;
   	width: 20%;
@@ -15,3 +21,31 @@ html {
 #icon {
 	width: 100%;
 }
+
+#welcome {
+	width: 100%;
+  	padding: 0 7%;
+  	display: table;
+  	margin: 0;
+  	max-width: none;
+  	background-color: #39BECC;
+  	text-align: center;
+}
+
+#whoWeAre {
+	width: 100%;
+	height: 600px;
+  	padding: 0 7%;
+  	display: table;
+  	margin: 0;
+  	max-width: none;
+  	background-color: #FFFFFF;
+  	text-align: center;
+}
+
+
+
+
+
+
+
