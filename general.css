@@ -43,6 +43,33 @@ body {
   	text-align: center;
 }
 
+#footer {
+	width: 100%;
+	padding-top: 20px;
+	padding-bottom: 20px;
+  	display: table;
+  	margin: 0;
+  	max-width: none;
+  	background-color: #2F2F2F;
+  	text-align: center;
+}
+
+#socialIcon {
+	width: 20px;
+	height: 20px;
+	display: inline-block;
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
 
